@@ -1,0 +1,34 @@
+class Team(object):
+    """docstring for Team"""
+    def __init__(self, arg):
+        super(Team, self).__init__()
+        self.arg = arg
+
+
+self._PK
+self._ALGORITHMTYPE
+self._EXTERNALFLAGS
+self._FLAGS
+self._ISSAVED
+self._NUMBEROFPLAYERS
+self._PLANNEDGAMEMINUTES
+self._PLANNEDHALFTIMEMINUTES
+self._TOTALROTATIONS
+self._SEASON
+self._SETTINGS
+self._SETTINGSTEAM
+self._GAMEPLAYERAMOUNT
+self._GAMETEAMAMOUNT
+self._PRACTICEPLAYERAMOUNT
+self._PRACTICETEAMAMOUNT
+self._SCRIMMAGEPLAYERAMOUNT
+self._SCRIMMAGETEAMAMOUNT
+self._TRIALGAMEPLAYERAMOUNT
+self._TRIALGAMETEAMAMOUNT
+self._COLORNAME
+self._EXTERNALID
+self._EXTERNALID2
+self._FORMATION
+self._TEAMNAME
+self._TWITTERHASHTAG
+self._THUMBNAILIMAGE

@@ -1,0 +1,33 @@
+{
+  "Developmental Components": {
+    "Technical": {
+      "1": "Test",
+      "2": "Test",
+      "3": "Test"
+    },
+    "Tactical": {
+      "1. General": "",
+      "2. Attacking": "",
+      "3. Defending": ""
+    },
+    "Strength": {
+      "1. Strength": {
+         "1. Test": "" 
+        },
+      "2. Endurance": "",
+      "3. Speed": "",
+      "4. Flexibility": "",
+      "5. Mobility": "",
+      "6. Coordination": "",
+      "7. Balance": "",
+      "8. Agility": "",
+      "9. Basic Motor Skills": "",
+      "10. Perception & Awareness": ""
+    },
+    "Psycosocial": {
+      "1. Basic": "",
+      "2. Advanced": "",
+      "3. Social": ""
+    }
+  }
+}

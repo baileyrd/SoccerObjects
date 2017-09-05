@@ -1,0 +1,32 @@
+class Settings(object):
+    """docstring for Settings"""
+    def __init__(self, arg):
+        super(Settings, self).__init__()
+        self.arg = arg
+
+
+self._PK
+self._ALGORITHMTYPE
+self._AUTOSTOPCLOCK
+self._DISPLAYEVALS
+self._DISPLAYSTATS
+self._FLAGS
+self._MAXIMUMEXCESSMINUTES
+self._MAXIMUMSUBSPERROTATION
+self._NAMEORDER
+self._NEXTEVALLOGTYPE
+self._NEXTSTATLOGTYPE
+self._NUMBEROFPLAYERS
+self._PLANNEDGAMEMINUTES
+self._PLANNEDHALFTIMEMINUTES
+self._SCHEDULESEGMENT
+self._SEGMENTREMINDERSECONDS
+self._SWITCHONFIELDPLAYERS
+self._TOTALROTATIONS
+self._CURRENTGAME
+self._DEFAULTTEAM
+self._LOCATIONUSERFIELDTYPES
+self._TWITTERSETTINGS
+self._EMAILADDRESS
+self._FORMATION
+self._PASSWORD
